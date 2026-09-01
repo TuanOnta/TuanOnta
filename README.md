@@ -140,20 +140,6 @@ I build scalable web applications and backend systems with a strong focus on
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=TuanOnta&theme=react-dark&hide_border=true&area=true"
-    width="95%"
-    alt="Contribution Graph"
-  />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
