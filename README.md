@@ -118,17 +118,11 @@ I build scalable web applications and backend systems with a strong focus on
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=TuanOnta&show_icons=true&theme=dracula&hide_border=true&count_private=true"
-height="165"
-alt="GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanOnta&layout=compact&theme=dracula&hide_border=true"
-height="165"
-alt="Top Languages"
-/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=TuanOnta&theme=dracula&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
 
 </div>
 
@@ -136,10 +130,11 @@ alt="Top Languages"
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=TuanOnta&theme=dracula&hide_border=true"
-alt="GitHub Streak"
-/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuanOnta&theme=dracula"
+    width="90%"
+    alt="GitHub Profile Summary"
+  />
 
 </div>
 
@@ -149,11 +144,11 @@ alt="GitHub Streak"
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=TuanOnta&theme=react-dark&hide_border=true&area=true"
-width="100%"
-alt="Contribution Graph"
-/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TuanOnta&theme=react-dark&hide_border=true&area=true"
+    width="95%"
+    alt="Contribution Graph"
+  />
 
 </div>
 
